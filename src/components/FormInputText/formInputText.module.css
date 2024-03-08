@@ -1,0 +1,21 @@
+.textInput {
+  border: 1px solid #BDBDBD;
+  border-radius: 5px;
+  padding: 8px 12px;
+  margin: 7px 0 2px;
+}
+
+.textInput:before,
+.textInput:after {
+  display: none;
+}
+
+.labelInput {
+  color: #7F7F7F;
+}
+
+.fieldset {
+  border: none;
+  margin: 15px 0 0;
+  padding: 0;
+}

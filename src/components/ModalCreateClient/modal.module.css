@@ -1,0 +1,52 @@
+.modalContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 450px;
+  border-radius: 8px;
+  background-color: #FFF;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  padding: 30px;
+}
+
+.stepperContainer {
+  margin: 25px -8px 15px;
+}
+
+.navBottomStepStart {
+  display: flex;
+  justify-content: end;
+  margin: 70px 0 0;
+}
+
+.navBottomStepFinish {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 70px 0 0;
+}
+
+.backArrow {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  color: #3360FF;
+  cursor: pointer;
+}
+
+.modalTitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modalTitle > svg {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 599px) {
+  .modalContainer {
+    width: 75%;
+  }
+}
