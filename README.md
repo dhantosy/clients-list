@@ -1,46 +1,26 @@
-# Getting Started with Create React App
+## Dekstop View:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="867" alt="Screenshot 2024-03-08 at 1 25 50 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/fcddc1f8-45cb-4694-909a-c0d05f0cd35a">
 
-## Available Scripts
+<img width="832" alt="Screenshot 2024-03-08 at 1 25 56 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/822c6b85-96da-4c62-9fbf-0b170a9bae1a">
 
-In the project directory, you can run:
+<img width="993" alt="Screenshot 2024-03-08 at 1 31 49 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/8a55e3f7-eecf-4863-a8a1-03f71c1afa60">
 
-### `npm start`
+<img width="833" alt="Screenshot 2024-03-08 at 1 31 57 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/73886d2e-6de2-4a89-8031-0f743a67c45e">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img width="816" alt="Screenshot 2024-03-08 at 1 32 16 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/e2aeeb54-6cf2-4d35-9c0f-b426a890a436">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## Mobile View:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="321" alt="Screenshot 2024-03-08 at 1 42 11 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/c06679d8-37a9-435f-aa96-73a44b5b85aa">
 
-### `npm run build`
+<img width="319" alt="Screenshot 2024-03-08 at 1 42 19 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/1f328c3f-7210-46c7-a4a6-3e601f3ff11d">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="320" alt="Screenshot 2024-03-08 at 1 42 50 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/1d295334-6685-4fad-9b40-85e024db1828">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="319" alt="Screenshot 2024-03-08 at 1 43 09 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/7b5193e5-a538-4050-95bf-3280ef5e07e0">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="319" alt="Screenshot 2024-03-08 at 1 43 19 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/53144bfe-da81-437d-a855-b79b317b6201">
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="319" alt="Screenshot 2024-03-08 at 1 43 39 PM" src="https://github.com/dhantosy/carepatron-fe-test/assets/1337061/ce9a71fb-f755-4648-8958-f5ae9415944a">
